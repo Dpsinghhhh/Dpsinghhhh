@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend devlopment
 - 🌱 I’m currently learning dsa & web-d
 - 💞️ I’m looking to collaborate on frontend topics
-- 📫 How to reach me :- dpsingh52282@gmial.com
+- 📫 How to reach me :- dpsingh52282@gmail.com
 
 <!---
 Dpsinghhhh/Dpsinghhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
